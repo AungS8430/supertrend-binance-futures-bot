@@ -1,12 +1,5 @@
 # supertrend-crypto-bot
 
-supertrend bot using python, pandas, and ccxt
+Based on PartTimeLarry's video https://youtube.com/parttimelarry with added functionality such as multiple coins, long-short trading, Heikin Ashi Candles.
 
-## Demo Video and Instructions:
-
-* https://youtube.com/parttimelarry
-* https://www.youtube.com/watch?v=1PEyddA1y5E
-
-# Like this? Buy Me a Coffee!
-
-https://buymeacoffee.com/parttimelarry
+Thanks, Larry!
