@@ -5,7 +5,7 @@ from src.supertrend import *
 import pandas as pd
 import sys
 from stringcolor import * 
-sys.path.insert(0, '/media/aungs8430/0CFE082E0CFE082E/AlgoTradingBot/')
+sys.path.insert(0, 'path/to/your/directory')
 coins = open("data/coins.txt", "r").read().splitlines()
 
 pd.set_option('display.max_rows', None)
